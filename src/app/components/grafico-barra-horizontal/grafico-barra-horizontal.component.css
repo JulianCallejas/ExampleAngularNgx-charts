@@ -1,0 +1,13 @@
+.chart-container{
+    display: grid;
+    height: 300px;
+}
+
+.label {
+    font-size: 25px;
+    font-weight: normal;
+    fill: rgb(219, 219, 219);
+    
+  } 
+  
+  
